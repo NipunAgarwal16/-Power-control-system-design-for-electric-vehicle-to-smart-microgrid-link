@@ -30,4 +30,14 @@ MATLAB and Simulink, Power Electronics, Control Systems
 
 - [Nipun Agarwal](https://github.com/NipunAgarwal16)
 
+## Credits
 
+I am extremely thankful to the support of mentors and advisors of this Project:
+
+- [Dr. Sainath Bitragunta](https://www.bits-pilani.ac.in/pilani/sainath/profile)
+(Assistant Professor, Department of Electrical and Electronics Engineering, BITS Pilani, Pilani Campus
+India)
+
+- [Dr. Puneet Mishra](https://www.bits-pilani.ac.in/pilani/puneetmishra/Profile)
+(Assistant Professor, Department of Electrical and Electronics Engineering, BITS Pilani, Pilani Campus
+India)
