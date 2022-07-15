@@ -26,9 +26,8 @@ is used and converter works in boost mode that is discharging mode.
 MATLAB and Simulink, Power Electronics, Control Systems
 
 
-## Authors
+## Author
 
-- [@VikasPanit](https://github.com/Vikas1901904)
-- [@VageeshAmoriya](https://github.com/amoriyavageesh01)
+- [Nipun Agarwal](https://github.com/NipunAgarwal16)
 
 
